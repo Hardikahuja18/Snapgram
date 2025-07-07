@@ -10,7 +10,9 @@ Snapgram is a modern, full-stack social media web app with a stunning UI, mobile
 
 ![poster](https://via.placeholder.com/600x300?text=Snapgram+Demo)
 
-**Try the App:** [Snapgram](https://your-deployed-link-here.com)
+**Try the App:** [https://snapgram-hardikahuja18.vercel.app](https://snapgram-hardikahuja18.vercel.app)
+
+---
 
 ## 🧐 Features
 
@@ -33,6 +35,8 @@ Snapgram offers an amazing set of features to provide the best user experience:
 - [ ] Follow/Unfollow functionality
 - [ ] Comments on Posts
 
+---
+
 ## 💻 Built With
 
 - [React.js](https://react.dev/) - Frontend UI Library
@@ -41,9 +45,11 @@ Snapgram offers an amazing set of features to provide the best user experience:
 - [Zod](https://zod.dev/) - Type-safe Validation
 - [React Query](https://tanstack.com/query/latest) - Data Fetching and Caching
 
+---
+
 ## 🗂️ Project Structure
 
-$PROJECT_ROOT
+PROJECT_ROOT
 ├── index.html
 ├── public
 │   └── assets
@@ -61,6 +67,8 @@ $PROJECT_ROOT
 │   └── validation
 ├── _root
 └── types
+
+---
 
 ## 👨‍💻 Author
 
