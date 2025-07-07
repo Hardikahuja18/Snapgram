@@ -1,13 +1,13 @@
 import { Client, Account, Databases, Storage, Avatars } from "appwrite";
 
 export const appwriteConfig = {
-  projectId: import.meta.env.VITE_APPWRITE_PROJECT_ID,
-  url: import.meta.env.VITE_APPWRITE_URL,
-  databaseId: import.meta.env.VITE_APPWRITE_DATABASE_ID,
-  storageId: import.meta.env.VITE_APPWRITE_STORAGE_ID,
-  userCollectionId: import.meta.env.VITE_APPWRITE_USER_COLLECTION_ID,
-  postCollectionId: import.meta.env.VITE_APPWRITE_POST_COLLECTION_ID,
-  savesCollectionId: import.meta.env.VITE_APPWRITE_SAVES_COLLECTION_ID,
+  projectId: "686bf9a8003db8d7d0e2",
+  url: "https://fra.cloud.appwrite.io/v1",
+  databaseId: "686bf9e100065c48adcc",
+  storageId: "686bfa25003665620d2c",
+  userCollectionId: "686bfd290011531db944",
+  postCollectionId: "686bfd43002fb7eb3e97",
+  savesCollectionId: "686bfd590025e5982d77",
 };
 
 export const client = new Client();

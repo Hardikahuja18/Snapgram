@@ -1,86 +1,76 @@
-# Snapgraam
+# Snapgram
 
-![logo](https://github.com/maazshakeel/snapgram/assets/62890173/3d357298-7737-4bce-be4d-e7d3c8c10d51)
+![logo](https://via.placeholder.com/300x100?text=Snapgram+Logo)
 
-### Introducing Snapgraam ✌️
+### Introducing Snapgram ✌️
 
-Its a modern social like web app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.
+Snapgram is a modern, full-stack social media web app with a stunning UI, mobile-friendly design, infinite scrolling, and smooth performance. This project is built and maintained by **Hardik Ahuja** using React.js, Appwrite, TypeScript, and more.
 
-## 🚀 Demo
+## 🚀 Live Demo
 
-![poster_snapgraam_maaz](https://github.com/maazshakeel/snapgram/assets/62890173/65f29509-fea1-4ce5-bbf5-315e69295e2d)
+![poster](https://via.placeholder.com/600x300?text=Snapgram+Demo)
 
-Try the App: [Snapgraam](https://snapgraam.vercel.app/)
+**Try the App:** [Snapgram](https://your-deployed-link-here.com)
 
 ## 🧐 Features
 
-Snapgraam comes up with a whole bunch of amazing features to provide you the best experience, Here're some of our best features.
+Snapgram offers an amazing set of features to provide the best user experience:
 
-- [x] 💯 **Infinite, Smooth: Scroll**
-- [x] 🎩 **Upload your Posts**
-- [x] 👾 **Like and Save posts**
-- [x] 📦 **Explore**
-- [x] 🔖 **Edit Posts**
-- [x] 🍭 **Search posts**
-- [x] 🌘 **Dark mode**
-- [x] 💻 **Fully Responsive**
-- [x] 🚀 **Fast Downloading**
-      <br/>
-      (yet to be implemented; stay tuned!! 😉)
-- [ ] **Save page**
-- [ ] **Profile details page**
-- [ ] **Top creator pages**
-- [ ] **Follow and Unfollow functionality**
-- [ ] **Comment in posts**
+- [x] 💯 Infinite Smooth Scrolling
+- [x] 🎩 Upload Posts with Images
+- [x] 👾 Like and Save Posts
+- [x] 📦 Explore Feed
+- [x] 🔖 Edit Your Posts
+- [x] 🍭 Search for Posts
+- [x] 🌘 Dark Mode
+- [x] 💻 Fully Responsive for Mobile & Desktop
+- [x] 🚀 Fast Loading and Performance
 
-Enjoy creating cover image for your hashnode blog like never before, get started in seconds ✨️
+> Upcoming Features:
+- [ ] Save page
+- [ ] Profile details page
+- [ ] Top creator pages
+- [ ] Follow/Unfollow functionality
+- [ ] Comments on Posts
 
-## 💻 Built with
+## 💻 Built With
 
-- [React.js](https://react.dev/) - The library for web and native user interfaces
-- [Appwrite](https://appwrite.io/) - Platform which provide backend as a service
-- [TypeScript](https://typescriptlang.org/) - TypeScript extends JavaScript by adding types to the language
-- [Zod](https://zod.dev/) - TypeScript-first schema validation with static type inference
-- [React-Query](https://tanstack.com/) - To fetch & update data efficiently
+- [React.js](https://react.dev/) - Frontend UI Library
+- [Appwrite](https://appwrite.io/) - Backend-as-a-Service
+- [TypeScript](https://www.typescriptlang.org/) - Strongly Typed JavaScript
+- [Zod](https://zod.dev/) - Type-safe Validation
+- [React Query](https://tanstack.com/query/latest) - Data Fetching and Caching
 
-## Project structure
+## 🗂️ Project Structure
 
-```
 $PROJECT_ROOT
-├── index.html             # Entry point
+├── index.html
 ├── public
 │   └── assets
-│       ├── icons
-│       └── images
+│   ├── icons
+│   └── images
 └── src
-    ├── _auth
-    │   └── forms
-    ├── components
-    │   ├── forms
-    │   ├── shared      # Global components
-    │   └── ui          # Shadcn
-    ├── constants       # Constant variables
-    ├── context
-    ├── hooks
-    ├── lib
-    │   ├── appwrite    # Appwrite config
-    │   ├── react-query # React-query config
-    │   └── validation  # Schema validation with zod
-    ├── _root
-    │   └── pages
-    └── types           # Custom types
-```
+├── _auth
+├── components
+├── constants
+├── context
+├── hooks
+├── lib
+│   ├── appwrite
+│   ├── react-query
+│   └── validation
+├── _root
+└── types
 
 ## 👨‍💻 Author
 
-### 👤 Muhammad Maaz
+### Hardik Ahuja
 
-- Twitter: [@mouhammed_maaz](https://twitter.com/SavioMartin7)
-- Github: [@maazshakeel](https://github.com/saviomartin)
-- Linkedin: [@mouhammadmaaz](https://linkedin.com/in/mouhammadmaaz)
+- GitHub: [@Hardikahuja18](https://github.com/Hardikahuja18)
+- LinkedIn: [Hardik Ahuja](https://linkedin.com/in/hardikahuja)
 
-  ***
+---
 
 <h3 align="center">
-Snapgraam needs a ⭐️ from you
+⭐️ If you like Snapgram, please give it a star!
 </h3>
